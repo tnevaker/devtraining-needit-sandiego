@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format/>
+        <height/>
+        <image/>
+        <name>needit-logo-purple.png</name>
+        <size_bytes/>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-17 19:57:41</sys_created_on>
+        <sys_id>304e241d876741102c5243fc0ebb3577</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>needit-logo-purple.png</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>db_image_304e241d876741102c5243fc0ebb3577</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-17 19:57:41</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+</record_update>
